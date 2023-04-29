@@ -51,8 +51,8 @@
 // */
 
 
-// function keyPressed(){
-//   if RIGHT_ Key Pressed, x= x.cord+10;
-//   if LEFT_ Key Pressed, x=-x.cord-10; 
+//if (RIGHT_ Key Pressed){ x= x.cord+10;
+//   if LEFT_ Key Pressed, x=-x.cord-10;// function keyPressed(){
+//    
 //   }
 // 
