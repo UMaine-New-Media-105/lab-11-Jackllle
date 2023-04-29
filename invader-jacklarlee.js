@@ -5,7 +5,7 @@
 // - Make the objects fall in random locations in the y direction
 // y += speed
 // }
-// display (){
+// show (){
 // same as Shooter
 // }
 // }
@@ -27,7 +27,9 @@
 //   //shooter.display
 //   //shooter.update
 //   //loop through falling objects
-// }
+// } chooter.show 
+// invader.show
+//invader.move
 
 // 
 // class Shooter
@@ -42,7 +44,7 @@
   
 //   }
   
-//   display(){
+//   show(){
 //     push()
 //     translate(this.x, this.y)
 //     rect(this.x, this.y, this.size)
